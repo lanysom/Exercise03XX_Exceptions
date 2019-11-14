@@ -1,1 +1,1 @@
-# Exercise03XX_Exceptions
+# Exercise03XX Exceptions
